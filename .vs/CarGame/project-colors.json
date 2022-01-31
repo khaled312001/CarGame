@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4240475f-e458-4a78-9a48-8eed36dba27a": {
+      "ProjectGuid": "4240475f-e458-4a78-9a48-8eed36dba27a",
+      "DisplayName": "CarGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
